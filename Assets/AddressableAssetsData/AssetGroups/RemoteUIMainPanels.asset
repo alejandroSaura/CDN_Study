@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: RemoteUIMainPanels
+  m_EditorClassIdentifier: 
+  m_GroupName: RemoteUIMainPanels
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 34b37a978929b58468c41001c0f454c2
+  m_SerializeEntries:
+  - m_GUID: 23b0b8cc997dbf24a8778ba66fee3878
+    m_Address: MissionsPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UIMainPanels
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ac8f9a36bbf813d41bb0a4de8c81067c
+    m_Address: ProfilePanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UIMainPanels
+    m_MainAsset: {fileID: 3751311968790498026, guid: ac8f9a36bbf813d41bb0a4de8c81067c, type: 3}
+    m_TargetAsset: {fileID: 3751311968790498026, guid: ac8f9a36bbf813d41bb0a4de8c81067c, type: 3}
+  - m_GUID: 236691bfc87347e4b9d1463f18de81ea
+    m_Address: FriendsPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UIMainPanels
+    m_MainAsset: {fileID: 8950308430383958847, guid: 236691bfc87347e4b9d1463f18de81ea, type: 3}
+    m_TargetAsset: {fileID: 8950308430383958847, guid: 236691bfc87347e4b9d1463f18de81ea, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 42a82217ceccbdd41860460d99878a4d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d503364681854294ea8a384f8b9aa5ae, type: 2}
+    - {fileID: 11400000, guid: 09298ffa7e261294395122b30b6769cb, type: 2}
